@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лабораторная работа 1",
+        "description": "Разработка UML диаграммы прецедентов",
         "preview": "img/use-case-diagram.png"
     },
     {
