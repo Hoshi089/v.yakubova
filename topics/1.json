@@ -169,6 +169,19 @@
                   "text": "Заказчик запросил доработки"
               }]
             ]
+        },
+                      {
+            "type": "text",
+            "data": [
+                {
+                    "text": "10. UML-диаграмма",
+                    "class": "md-title"
+                }
+            ]
+        },
+                {
+            "type": "image",
+            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/lab1.png?raw=true"
         }
     ]
 }
