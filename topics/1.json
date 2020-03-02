@@ -14,7 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Мобильное приложение, позволяющее тестировать и документировать веб-сервисы"
+                    "text": "Система хранения и обработки ПДн"
                 }
             ]
         },
@@ -31,7 +31,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Мобильное приложение для тестирования и документирования RESTful API"
+                    "text": "Система, осуществляющая хранение и мониторинг легальности обработки ПДн клиентов в дисконтной программе лояльности"
                 }
             ]
         },
@@ -48,7 +48,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка мобильного приложения"
+                    "text": "Разработка информационной системы"
                 }
             ]
         },
@@ -63,7 +63,7 @@
         },
         {
             "type": "image",
-            "data": "https://github.com/Ernest0-Production/ernest0/blob/master/img/actors.png?raw=true.png?raw=true"
+            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/actorsgoals.PNG?raw=true.png?raw=true"
         },
         {
             "type": "text",
@@ -128,7 +128,7 @@
         },
                 {
             "type": "image",
-            "data": "https://github.com/Ernest0-Production/ernest0/blob/master/img/mainFlow.png?raw=true"
+            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/potok.PNG?raw=true"
         },
         {
             "type": "text",
