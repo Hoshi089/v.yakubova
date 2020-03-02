@@ -4,7 +4,7 @@ angular.module('designApp', [
   'ngResource'
 ]).config(function ($mdThemingProvider) {
   $mdThemingProvider.theme('default')
-    .primaryPalette('green')
+    .primaryPalette('blue')
     .accentPalette('blue')
     .dark();
 });
