@@ -22,5 +22,11 @@
         "title": "Лабораторная работа 4",
         "description": "Разработка UML диаграммы прецедентов",
         "preview": "img/use-case-diagram.png"
+    },
+        {
+        "id": 5,
+        "title": "Отчет по командной работе",
+        "description": "Преобразовать потоки (flow) P1, P1_1, P1_2, P1_3 к виду диаграммы классов UML (с наследованием)",
+        "preview": "img/use-case-diagram.png"
     }
 ]
